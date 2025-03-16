@@ -1,0 +1,21 @@
+# Derleme klasörleri
+bin/
+obj/
+
+# Code::Blocks proje dosyaları
+*.cbp
+*.depend
+*.layout
+
+# Çalıştırılabilir dosyalar
+*.exe
+*.o
+
+# Geçici dosyalar
+*.log
+*.tmp
+
+
+# Derleme klasörleri
+Linux review/Triangle/bin/
+Linux review/Triangle/obj/
